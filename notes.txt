@@ -1,0 +1,3 @@
+I haven't quite finished question 3: the user can be related to a job entity but an error is thrown when they are updated.
+
+I looked at the doctrine documentation but i couldn't find the explanation, I guess this is one big difference between symfony and laravel, ie doctrine vs eloquent ORM.
